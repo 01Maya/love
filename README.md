@@ -1,5 +1,43 @@
+# 💖 Valentine Proposal Web Page
 
-> No external assets or build tools required.
+A fun, interactive, and romantic Valentine’s Day web page built using **HTML, CSS, and JavaScript**.  
+Designed to create a playful proposal experience with smooth animations, a shiny name effect, a teasing “No” button, and celebratory confetti when “Yes” is clicked.
+
+---
+
+## ✨ Features
+
+- 💫 **Shiny Name Effect**  
+  Only the name shines with a smooth gradient animation for a special highlight.
+
+- 😈 **Playful “No” Button**  
+  The “No” button runs away when the user tries to click it, making the experience fun and interactive.
+
+- 💖 **Growing “Yes” Button**  
+  Every attempt to click “No” makes the “Yes” button grow bigger.
+
+- 🎉 **Full-Screen Confetti Celebration**  
+  Clicking “Yes” triggers a beautiful full-screen confetti animation.
+
+- 📱 **Responsive Design**  
+  Works smoothly on mobile, tablet, and desktop devices.
+
+- 🌸 **Soft UI & Smooth Animations**  
+  Glassmorphism card, subtle transitions, and polished UI effects.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3** (Animations, Gradients, Glassmorphism)
+- **JavaScript (Vanilla)**
+- **Canvas Confetti Library**
+
+---
+
+## 📂 Project Structure
+
 
 ---
 
