@@ -41,7 +41,7 @@ Designed to create a playful proposal experience with smooth animations, a shiny
 
 https://01maya.github.io/love/
 ---
-
+<img width="1222" height="732" alt="Image" src="https://github.com/user-attachments/assets/8f000fa6-7f88-415f-8033-9fd967570ba2" />
 ---
 
 ## 🚀 How to Run
